@@ -13,20 +13,20 @@
 <br>
 </div>
 
-<!--
 
-# Rangkaian Untuk Mengatur LED
+
+# Rangkaian Untuk Mengatur Kecerahan Lampu dan Nada Buzzer
 <br>
 
 ## DESKRIPSI
-Rangkaian ini menghasilkan output LED yang dapat di nyalakan melalui WEBSERVER menggunakan NodeMCU dengan mode WIFI_STA. Terdapat 2 LED yaitu LED1 berwarna biru dan LED2 berwarna merah. Jika LED1 menyala maka LED2 akan mati dan jika LED2 menyala LED1 akan mati.
+Rangkaian ini menghasilkan output nilai dari kecerahan lampu dan nada buzzer yang dapat dilihat melalui WEBSERVER menggunakan NodeMCU dengan mode WIFI_STA. Terdapat 1 LED, 1 Buzzer, dan 3 Button. Button 1 dapat melakukan on/off pada kecerahan led dan nada buzzer, jika button 2 ditekan maka kecerahan lampu dan nada buzzer akan meningkat tetapi jika button 3 ditekan maka kecerahan lampu dan nada buzzer akan menurun.
 
 
 ## PEMBAGIAN TUGAS
 
-040_Natalie Fuad       = Menngatur konfigurasi WEBSERVER
+040_Natalie Fuad       = Menngatur konfigurasi WEBSERVER, membuat rangkaian buzzer dan button tambah kurang
 <br>
-050_Sherina Laraswati  = Membuat rangkaian LED serta mengatur konfigurasi LED
+050_Sherina Laraswati  = Mengatur konfigurasi LED dan buzzer, membuat rangkaian LED dan button on/off
 
 
 ## KOMPONEN YANG DIGUNAKAN
@@ -35,8 +35,10 @@ Rangkaian ini menghasilkan output LED yang dapat di nyalakan melalui WEBSERVER m
 - ESP8266
 - Kabel Jumper Male to Male
 - Resistor
+- Buzzer 
+- Button
 
-
+<!--
 ## RANGKAIAN
 
 - DESIGN SCHEMATIC
