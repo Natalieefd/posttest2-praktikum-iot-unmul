@@ -38,13 +38,13 @@ Rangkaian ini menghasilkan output nilai dari kecerahan lampu dan nada buzzer yan
 - Buzzer 
 - Button
 
-<!--
+
 ## RANGKAIAN
 
 - DESIGN SCHEMATIC
 <div align="center">
   
-<img src="https://github.com/Natalieefd/posttest1-praktikum-iot-unmul-2024/blob/main/lampiran/design_schematic.png">
+<img src="https://github.com/Natalieefd/posttest2-praktikum-iot-unmul/blob/main/Lampiran/design_schematic.png">
 
 </div>
 
@@ -52,9 +52,10 @@ Rangkaian ini menghasilkan output nilai dari kecerahan lampu dan nada buzzer yan
   
 - OUR SCHEMATIC
 <div align="center">
-  
-<img src="https://github.com/Natalieefd/posttest1-praktikum-iot-unmul-2024/blob/main/lampiran/schematic.png">
 
+<!--  
+<img src="https://github.com/Natalieefd/posttest1-praktikum-iot-unmul-2024/blob/main/lampiran/schematic.png">
+-->
 </div>
 
 <br>
