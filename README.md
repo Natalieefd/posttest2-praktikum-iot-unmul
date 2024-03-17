@@ -53,9 +53,8 @@ Rangkaian ini menghasilkan output nilai dari kecerahan lampu dan nada buzzer yan
 - OUR SCHEMATIC
 <div align="center">
 
-
 <img src="https://github.com/Natalieefd/posttest2-praktikum-iot-unmul/blob/main/Lampiran/rangkaian%20.jpg">
--->
+
 </div>
 
 <br>
